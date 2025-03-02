@@ -1,0 +1,10 @@
+C:\Users\tener\source\repos\ProgPetro\bin\Debug\ProgPetro.exe.config
+C:\Users\tener\source\repos\ProgPetro\bin\Debug\ProgPetro.exe
+C:\Users\tener\source\repos\ProgPetro\bin\Debug\ProgPetro.pdb
+C:\Users\tener\source\repos\ProgPetro\obj\Debug\ProgPetro.csproj.AssemblyReference.cache
+C:\Users\tener\source\repos\ProgPetro\obj\Debug\ProgPetro.Backbolivar.resources
+C:\Users\tener\source\repos\ProgPetro\obj\Debug\ProgPetro.Properties.Resources.resources
+C:\Users\tener\source\repos\ProgPetro\obj\Debug\ProgPetro.csproj.GenerateResource.cache
+C:\Users\tener\source\repos\ProgPetro\obj\Debug\ProgPetro.csproj.CoreCompileInputs.cache
+C:\Users\tener\source\repos\ProgPetro\obj\Debug\ProgPetro.exe
+C:\Users\tener\source\repos\ProgPetro\obj\Debug\ProgPetro.pdb
